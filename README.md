@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Sai Kiran Naik | Full-Stack & AI Enthusiast 🤖</h1>
+<h1 align="center"> Sai Kiran Naik | Full-Stack & AI Enthusiast </h1>
 
 <p align="center">
   <i>"Code to Innovate, Learn to Inspire, Build to Empower"</i>
@@ -14,12 +14,12 @@
 
 ### 🏆 About Me  
 🔹 **B.Tech IT @ IARE, Hyderabad (2022-2026)**  
-🔹 **Full-Stack Developer | AI/ML Explorer**  
+🔹 **Full-Stack Developer | AI/ML Explorer**
+🔹 **Programming Co-Lead @ GDG IARE**   
 🔹 **Microsoft Learn Student Ambassador (MLSA)**  
-🔹 **Programming Co-Lead @ GDG IARE**  
 🔹 **Tech Enthusiast | Hackathon Junkie | Open-Source Lover**  
 
-📌 **Tech Stack:** Java | Python | C | JavaScript | SQL | React | MERN  
+📌 **Tech Stack:** Java | Python | C | JavaScript | SQL | HTML | CSS | React |   
 📌 **Interests:** Web Dev | AI/ML | Problem-Solving  
 
 ---
