@@ -15,6 +15,7 @@
 ### 🏆 About Me  
 🔹 **B.Tech IT @ IARE, Hyderabad (2022-2026)**  
 🔹 **Full-Stack Developer | AI/ML Explorer**
+
 🔹 **Programming Co-Lead @ GDG IARE**   
 🔹 **Microsoft Learn Student Ambassador (MLSA)**  
 🔹 **Tech Enthusiast | Hackathon Junkie | Open-Source Lover**  
