@@ -8,7 +8,7 @@
   <a href="https://saikiran-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%8F%A1-black?style=flat&logo=vercel"></a>
   <a href="https://www.linkedin.com/in/k-sai-kiran-naik-5b6019257/"><img src="https://img.shields.io/badge/LinkedIn-%E2%9A%99%EF%B8%8F-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:saikirannaik03@gmail.com"><img src="https://img.shields.io/badge/Email-%F0%9F%93%AB-red?style=flat&logo=gmail"></a>
-  <a href="https://drive.google.com/file/d/1uud6FPVRMYy-T_peLzKWWboaOhcM_lZY/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%F0%9F%93%9C-green?style=flat&logo=google-drive"></a>
+  <a href="https://drive.google.com/drive/folders/1ndw3sTk1KXOYh2GNvwY9qISVnHwW1qtF"><img src="https://img.shields.io/badge/Resume-%F0%9F%93%9C-green?style=flat&logo=google-drive"></a>
 </p>
 
 ---
@@ -31,8 +31,8 @@
 
 > ✨ Turning ideas into scalable, intelligent applications  
 
-- 🛒 **[SnapKart](https://github.com/SaiKiranNaik03/Fashion-Recommendation-System)** – A full-stack fashion e-commerce platform using MERN, ResNet-50, KNN, and Try-On Diffusion for AI-powered outfit recommendations and virtual try-ons.  
-- 📄 **[AI Smart Resume Builder](https://github.com/SaiKiranNaik03/AI-Resume-Builder)** – A React-based resume builder with 9+ ATS-friendly templates and Gemini API for real-time suggestions and keyword optimization.  
+- 🛒 **[SnapKart](https://github.com/SaiKiranNaik03/Major-Project-virtual-try-on)** – A full-stack fashion e-commerce platform using MERN, ResNet-50, KNN, and Try-On Diffusion for AI-powered outfit recommendations and virtual try-ons.  
+- 📄 **[AI Smart Resume Builder](https://github.com/SaiKiranNaik03/Resume_Builder_gdg)** – A React-based resume builder with 9+ ATS-friendly templates and Gemini API for real-time suggestions and keyword optimization.  
 - 🧠 **[Automated Image Captioning](https://github.com/SaiKiranNaik03/Automated-Image-Captioning)** – Generates descriptive captions for images using CNN, RNN, and Bahdanau attention mechanisms.  
 - ⛅ **[Weather Forecast App](https://github.com/SaiKiranNaik03/Weather-Forecast-)** – React-based app that displays real-time weather updates using the OpenWeatherMap API.  
 - 🗣️ **[GenZ-TalkAI](https://github.com/SaiKiranNaik03/GenZ-TalkAI)** – A ChatGPT-style AI assistant built with Streamlit and Gemini API.  
