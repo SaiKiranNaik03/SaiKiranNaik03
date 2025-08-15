@@ -64,7 +64,7 @@
 🌍 **Portfolio:** [saikiran-dev.vercel.app](https://saikiran-dev.vercel.app/)  
 💼 **LinkedIn:** [K Sai Kiran Naik](https://www.linkedin.com/in/k-sai-kiran-naik-5b6019257/)  
 🐙 **GitHub:** [SaiKiranNaik03](https://github.com/SaiKiranNaik03)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1uud6FPVRMYy-T_peLzKWWboaOhcM_lZY/view?usp=sharing)
+📄 **Resume:** [View Here](https://drive.google.com/drive/folders/1ndw3sTk1KXOYh2GNvwY9qISVnHwW1qtF)
 
 ---
 
